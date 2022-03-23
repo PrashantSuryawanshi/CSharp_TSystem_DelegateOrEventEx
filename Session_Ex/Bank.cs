@@ -19,7 +19,7 @@ namespace Session_Ex
         public Bank()
         {
             b_name = "BOI";
-            ifsc = "000MahaBOI";
+            ifsc = "000MPBOI";
             amount = 0;
         }
 
